@@ -1,4 +1,4 @@
-# Data Professional Survey — Power BI Dashboard
+# data-career-insights-powerbi
 
 ## Project Overview
 
