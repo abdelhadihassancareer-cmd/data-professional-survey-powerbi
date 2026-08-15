@@ -1,8 +1,8 @@
-# data-career-insights-powerbi
+# Data Career Insights — Salary, Skills & Satisfaction
 
 ## Project Overview
 
-This project analyzes a survey of data professionals using Microsoft Power BI. The dashboard summarizes respondent demographics, salary, job roles, programming languages, career transitions, and job satisfaction.
+This project analyzes a survey of data professionals using Microsoft Power BI. The dashboard explores salaries, job roles, programming languages, career transitions, demographics, and job satisfaction.
 
 ## Dashboard
 
@@ -37,7 +37,7 @@ The final Power BI report is presented as a single-page interactive dashboard.
 
 ## Dataset
 
-The project uses the Data Professional Survey dataset. The source data was used to build the Power BI model and dashboard.
+The project uses the publicly available Data Professional Survey dataset. The source data was used to build the Power BI model and dashboard.
 
 ## Key Insights
 
@@ -49,8 +49,8 @@ The project uses the Data Professional Survey dataset. The source data was used 
 
 ## Files
 
-- `project-1.pbix` — Power BI report file (to be uploaded)
-- `Power BI - Final Project.xlsx` — source dataset (optional; upload only if redistribution is permitted)
+- `Data Professional Survey.pbix` — Power BI report file
+- `Data Professional Survey.xlsx` — source dataset
 
 ## Author
 
